@@ -20,5 +20,6 @@ Installation & Usage :-
 git clone https://github.com/your-username/potato-leaf-disease-detection.git
 
 cd potato-leaf-disease-detection
-3) Install dependencies -
+
+2) Install dependencies -
 pip install -r requirements.txt
